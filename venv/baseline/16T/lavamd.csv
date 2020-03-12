@@ -1,0 +1,3 @@
+#Benchmark,Total DV-Inst,Total Inst,Total Cycles,Total cuops,Total buops,Total Branches,Total Loads,Total Stores,Total Wr Phi,Total Rd Phi,Total Phi,Tot PIRAT Acc,Total Phi/Accesses,RenameStalls,L1 Miss,L1 Hit,Avg Thread Occupancy,Warp Thru,Thru,Warp IPC,IPC,1T_IPC,Max Paths,branchnops,Bmispred,NoMispr,ParMispr,FullMispr,PIRATstalls,WAWstalls
+lavamd,157674638,460361856,242417477,28197,101312,3378663,83629556,16661572,56940,19983,76923,294279421,2.613944e-02%,221910063,8017634,292296995,3.003191e+00,6.517166e-01,1.957229e+00,1.899046e+00,6.323428e-01,1.709260e-01,6,4093670,86691.000000,3278036.000000,73115.000000,27512.000000,666,10
+
