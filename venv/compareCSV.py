@@ -1,7 +1,7 @@
 import pandas as pd
 import datetime
 
-
+#testing github
 # compares contents of csv simulation file outputs. Written by Dakota C. March 2020
 
 def comparefile(folder, simulation, threads):
