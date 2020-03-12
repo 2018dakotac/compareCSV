@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../compareCSV/.idea/compareCSV.iml" filepath="$PROJECT_DIR$/../compareCSV/.idea/compareCSV.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/csvCompare.iml" filepath="$PROJECT_DIR$/.idea/csvCompare.iml" />
     </modules>
   </component>
