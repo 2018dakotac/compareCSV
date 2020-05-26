@@ -1,3 +1,0 @@
-#Benchmark,Total DV-Inst,Total Inst,Total Cycles,Total cuops,Total buops,Total Branches,Total Loads,Total Stores,Total Wr Phi,Total Rd Phi,Total Phi,Tot PIRAT Acc,Total Phi/Accesses,RenameStalls,L1 Miss,L1 Hit,Avg Thread Occupancy,Warp Thru,Thru,Warp IPC,IPC,1T_IPC,Max Paths,branchnops,Bmispred,NoMispr,ParMispr,FullMispr,PIRATstalls,WAWstalls
-fluidanimate,224512233,185424615,99130157,205501,525118,20706308,45448952,9454206,3282804,34094793,37377597,313957705,1.190530e+01%,8733198,7556320,51739318,1.139281e+00,2.372693e+00,2.703164e+00,1.870517e+00,1.641840e+00,2.799029e-01,14,62888500,3449438.000000,20234016.000000,321404.000000,150889.000000,2398157,6858
-

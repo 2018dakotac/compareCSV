@@ -1,3 +1,0 @@
-#Benchmark,Total DV-Inst,Total Inst,Total Cycles,Total cuops,Total buops,Total Branches,Total Loads,Total Stores,Total Wr Phi,Total Rd Phi,Total Phi,Tot PIRAT Acc,Total Phi/Accesses,RenameStalls,L1 Miss,L1 Hit,Avg Thread Occupancy,Warp Thru,Thru,Warp IPC,IPC,1T_IPC,Max Paths,branchnops,Bmispred,NoMispr,ParMispr,FullMispr,PIRATstalls,WAWstalls
-srad,368942431,843187309,1242937766,869534,2522164,12653005,71454921,23178167,13832906,28813928,42646834,819094614,5.206582e+00%,1163574803,44844869,190185137,2.474324e+00,3.036952e-01,7.514402e-01,6.783826e-01,2.741689e-01,4.240899e-02,9,30325302,605134.000000,10328288.000000,1652626.000000,672091.000000,3346708,40
-
