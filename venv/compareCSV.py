@@ -134,7 +134,7 @@ def compareOwnFile(folder, simulation):
     log_file.close()
 
 
-a = input("a for own comp b for computer\n")
+a = input("a for own comp b for supercomputer\n")
 if a == 'a':
     folderName = input("If output is in another folder within output/ then add foldername/ WITH BACKSLASH\n")
     b = input("enter name of simulation, best of luck future me...\n")
